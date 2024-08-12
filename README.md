@@ -28,7 +28,7 @@ This is a Spring Boot application that provides an API to fetch all non-forked r
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/github-repositories.git
+   git clone https://github.com/Akhmadullo-Shokirov/github-repositories.git
    cd github-repositories
 
    
